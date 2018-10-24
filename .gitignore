@@ -1,0 +1,32 @@
+# FROM DJANGO-INTRO CLASS EXAMPLE
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Editor backup files
+*~
+*#
+*.swp
+
+# Mac OS data store file
+.DS_Store
+
+# Django's SQL Lite Database File
+db.sqlite3
+
+# secret files
+*.ini
+
+venv
+images
+outfits
+
+client_secret.json
+
+settings_secret.py
+
+.pem
+
+
+events/*.png
